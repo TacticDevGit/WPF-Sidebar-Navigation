@@ -1,0 +1,31 @@
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\bin\Debug\net6.0-windows\SideBar Nav.exe
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\bin\Debug\net6.0-windows\SideBar Nav.deps.json
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\bin\Debug\net6.0-windows\SideBar Nav.runtimeconfig.json
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\bin\Debug\net6.0-windows\SideBar Nav.dll
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\bin\Debug\net6.0-windows\ref\SideBar Nav.dll
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\bin\Debug\net6.0-windows\SideBar Nav.pdb
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav.csproj.AssemblyReference.cache
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav_MarkupCompile.cache
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav_MarkupCompile.lref
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\Themes\Generic.baml
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav.g.resources
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav.dll
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\ref\SideBar Nav.dll
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav.pdb
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\SideBar Nav.genruntimeconfig.cache
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\Pages\Page1.g.cs
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\Pages\Page2.g.cs
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\Pages\Page3.g.cs
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\Pages\Page4.g.cs
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\Pages\Page1.baml
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\Pages\Page2.baml
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\Pages\Page3.baml
+C:\Users\Jamie\source\repos\SideBar Nav\SideBar Nav\obj\Debug\net6.0-windows\Pages\Page4.baml

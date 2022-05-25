@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jamie\\source\\repos\\SideBar Nav\\SideBar Nav\\SideBar Nav.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jamie\\source\\repos\\SideBar Nav\\SideBar Nav\\SideBar Nav.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jamie\\source\\repos\\SideBar Nav\\SideBar Nav\\SideBar Nav.csproj",
+        "projectName": "SideBar Nav",
+        "projectPath": "C:\\Users\\Jamie\\source\\repos\\SideBar Nav\\SideBar Nav\\SideBar Nav.csproj",
+        "packagesPath": "C:\\Users\\Jamie\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jamie\\source\\repos\\SideBar Nav\\SideBar Nav\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jamie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SideBar Nav/1.0.0": {
+        "runtime": {
+          "SideBar Nav.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SideBar Nav/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
